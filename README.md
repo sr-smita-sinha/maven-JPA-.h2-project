@@ -6,6 +6,6 @@ This is a sample project in springboot and jpa(hibernate) using h2 database.
 
 > H2 queries are also similar to mysql, but very few changes in datatype such as float to real.
  
-`Note: This is a h2 database implementation of the project i've already developed`
+`Note: This is a h2 database implementation of the project i've developed`
 
  
